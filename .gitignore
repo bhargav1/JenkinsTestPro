@@ -1,0 +1,22 @@
+# ======= #
+# Android #
+# ======= #
+**/.settings/*
+**/bin/*
+**/gen/*
+**/build/*
+**/.gradle/*
+local.properties
+
+
+# ======================= #
+# Intellij/Android Studio #
+# ======================= #
+**/.idea/*
+**/*.iml
+ 
+# ===== #
+# macOS #
+# ===== #
+**/.DS_Store
+**/.DS_Store?
